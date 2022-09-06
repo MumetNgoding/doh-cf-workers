@@ -4,8 +4,8 @@ addEventListener('fetch', function(event) {
     event.respondWith(response)
 })
 
-const doh = 'https://doh.tiar.app/dns-query'
-const dohjson = 'https://doh.tiar.app/dns-query'
+const doh = 'https://dns.hafidzradhival.my.id/dns-query'
+const dohjson = 'https://dns.hafidzradhival.my.id/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
