@@ -3,5 +3,9 @@ type = "javascript"
 
 account_id = ""
 workers_dev = true
-route = ""
+
+routes = [
+	{ pattern = "dns.hafidzradhival.my.id", custom_domain = true }
+]
+
 zone_id = ""
