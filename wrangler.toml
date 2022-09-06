@@ -3,5 +3,5 @@ type = "javascript"
 
 account_id = ""
 workers_dev = true
-route = ""
+route = "dns.hafidzradhival.my.id"
 zone_id = ""
