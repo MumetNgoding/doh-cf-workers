@@ -4,8 +4,8 @@ addEventListener('fetch', function(event) {
     event.respondWith(response)
 })
 
-const doh = 'https://doh.libredns.gr/dns-query'
-const dohjson = 'https://doh.libredns.gr/dns-query'
+const doh = 'https://dns.quad9.net/dns-query'
+const dohjson = 'https://dns.quad9.net/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
