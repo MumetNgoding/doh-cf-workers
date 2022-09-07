@@ -4,8 +4,8 @@ addEventListener('fetch', function(event) {
     event.respondWith(response)
 })
 
-const doh = 'https://dns.bebasid.com/dns-query'
-const dohjson = 'https://dns.bebasid.com/dns-query'
+const doh = 'https://doh.libredns.gr/dns-query'
+const dohjson = 'https://doh.libredns.gr/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
