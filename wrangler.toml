@@ -1,8 +1,8 @@
 name = "doh"
 type = "javascript"
 
-account_id = ""
+#account_id = ""
 workers_dev = true
 route = "dns.hafidzradhival.my.id"
-custom_domain = true
-zone_id = ""
+#custom_domain = true
+#zone_id = ""
