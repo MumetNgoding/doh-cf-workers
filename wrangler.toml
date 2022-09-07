@@ -1,8 +1,9 @@
 name = "doh"
 type = "javascript"
+main = "index.js"
 
 #account_id = ""
 workers_dev = true
-route = "dns.hafidzradhival.my.id"
+route = "dns.hafidzradhival.my.id/dns-query"
 #custom_domain = true
 #zone_id = ""
