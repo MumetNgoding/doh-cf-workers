@@ -38,6 +38,6 @@ async function handleRequest(request) {
             }
         });
     } else {
-        return new Response("Unable to parse the request", {status: 404,statusText:"Unable to parse the request"})
+        return new Response("Unable to parse the request", {status: 200,statusText:"Unable to parse the request"})
     }
 }
